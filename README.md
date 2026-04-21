@@ -1,2 +1,2 @@
-# Sistema_restaurante
-versión 1.1 del sistema de administración restaurante
+# Carrusel_imagenes
+carrusel de imagenes (carros)
